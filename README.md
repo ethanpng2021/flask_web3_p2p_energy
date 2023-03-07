@@ -1,5 +1,5 @@
 # Web3 Energy Trading Platform
-Blockchain P2P energy Web3 trading platform - simple dashboard
+## Blockchain P2P energy Web3 trading platform - simple dashboard
 
 In appmain.py, change the following to your Infura account:
 ```python 
